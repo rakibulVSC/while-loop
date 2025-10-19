@@ -20,15 +20,42 @@
 //     console.log(country)
 // }
 
-let num=1;
-let sum=0;
-while(num <10){
-    console.log(num);
-    sum =sum +num;
-    console.log('sum is ',sum)
- num++;
-}
+// let num=1;
+// let sum=0;
+// while(num <10){
+//     console.log(num);
+//     sum =sum +num;
+//     console.log('sum is ',sum)
+//  num++;
+// }
 
 
 
+// let num=1;
+// while(num<=10){
+//     console.log(num);
+//     num++;
+//     if(num%2===1){
+//         console.log('Even Number',num)
+//     }
 
+// }
+
+
+// let num =61;
+// while(num<=100){
+//     // console.log(num)
+//     num++;
+//     if(num%2===1){
+//         console.log("Odd Number",num)
+//     }
+// }
+
+
+// let sum=0;
+// for (let i=11;i<=20;i++){
+    
+//     sum=sum+i;
+//     console.log(i)
+// }
+// console.log(sum)
